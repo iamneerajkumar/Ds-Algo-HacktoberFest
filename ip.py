@@ -1,6 +1,8 @@
 import urllib
 import re
 
+print()
+
 print("we will try to open this url, in order to get IP Address")
 
 url = "http://checkip.dyndns.org"
